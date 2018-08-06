@@ -1,2 +1,0 @@
-# vuexdemo
-vuex-demo
